@@ -1,2 +1,2 @@
 # ncc-php-labs
-Fall 2015 Nashua Community College PHP Labs
+Spring 2016 Nashua Community College PHP Labs
