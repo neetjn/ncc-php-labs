@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Play);
+
+* {
+    font-family: 'Play', sans-serif;
+}
+
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+form {
+    width: 100%;
+    margin-top: 5em;
+}
+
+input[type='text'] {
+    padding: 5px 10px;
+}
+
+.btn-list {
+    list-style-type: none;
+    text-align: center;
+}
+
+.btn-list li {
+    display: inline;
+}
+
+button {
+	cursor: pointer;
+    display: inline-block;
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 2px;
+}
+
+button[type='submit'] {
+    background-color: #78BAA5;
+    border: 1px solid #78BAA5;
+}
+
+button[type='submit']:hover {
+    background-color: #548273;
+    border: 1px solid #548273;
+}
+
+button[type='submit']:active {
+    background-color: #304a42;
+    border: 1px solid #243731;
+}
+
+table {
+    margin: 0 auto 0 auto;
+    padding: 25px;
+    background-color: #2b2b2b;
+}
+
+table tr td {
+    padding:10px;
+}

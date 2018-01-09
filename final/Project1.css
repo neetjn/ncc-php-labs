@@ -1,0 +1,24 @@
+* {
+    font-family: 'Play', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, caption {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+body {
+    background-color: #E0E0E0;
+}
+.ico {
+    display: inline-block;
+}
+.ico-left {
+    padding-right: 5px;
+}
+.ico-right {
+    padding-left: 5px;
+}
+.wrapper {
+    margin-top: 2em;
+}
+.hidden {
+    display: none;
+}
